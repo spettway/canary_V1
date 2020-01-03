@@ -11,3 +11,7 @@
 .outlineCanaryOrange {
   border-color: #ffbd00 !important;
 }
+
+body {
+  color: blue;
+}
