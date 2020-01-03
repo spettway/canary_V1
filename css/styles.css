@@ -1,0 +1,13 @@
+
+
+.bg-canary-orange {
+  background-color: #ffbd00
+}
+
+.resizeLogo {
+  width: 130px;
+}
+
+.outlineCanaryOrange {
+  border-color: #ffbd00 !important;
+}
