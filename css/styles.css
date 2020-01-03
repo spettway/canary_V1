@@ -5,13 +5,11 @@
 }
 
 .resizeLogo {
-  width: 1130px;
+  width: 130px;
 }
 
 .outlineCanaryOrange {
   border-color: #ffbd00 !important;
 }
 
-body {
-  color: blue;
-}
+
