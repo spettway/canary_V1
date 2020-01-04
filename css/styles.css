@@ -1,5 +1,6 @@
 
 
+
 .bg-canary-orange {
   background-color: #ffbd00
 }
@@ -8,8 +9,27 @@
   width: 130px;
 }
 
-.outlineCanaryOrange {
+.border-canary-orange {
   border-color: #ffbd00 !important;
 }
 
 
+.write-review-button-top {
+  margin: 20px auto 20px 3%;
+}
+
+.write-review-button-bottom {
+  margin: 20px auto 20px 3%;
+}
+
+.resize-team-images {
+  width: 20vh;
+}
+
+.about-page-margin {
+  margin: auto 5% auto 5%;
+}
+
+.team-pictures-center {
+  margin: auto;
+}
