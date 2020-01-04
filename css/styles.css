@@ -43,6 +43,10 @@
   font-weight: bold;
 }
 
+.resize-jumbotron {
+  font-size: 7vh;
+}
+
 /* Left justifies the Knack results on main page */
 div#kn-scene_39 {
   margin-left: 20px;
