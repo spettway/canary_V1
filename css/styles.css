@@ -51,3 +51,8 @@
 div#kn-scene_39 {
   margin-left: 20px;
 }
+
+.invisible {
+  opacity: 0% !important;
+}
+
