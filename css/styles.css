@@ -54,5 +54,6 @@ div#kn-scene_39 {
 
 .invisible {
   display: none !important;
+  opacity: 0 !important;
 }
 
