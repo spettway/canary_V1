@@ -57,3 +57,6 @@ div#kn-scene_39 {
   opacity: 0 !important;
 }
 
+.kn-entries-summary {
+  display: none !important;
+}
